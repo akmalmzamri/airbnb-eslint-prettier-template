@@ -10,13 +10,15 @@ This project is aimed to provide an empty VS Code project with easily installabl
     editors
 -   **ESLint** is a program that runs through your Javascript code and analyzes it for potential errors.
 
+[References](https://blog.echobind.com/integrating-prettier-eslint-airbnb-style-guide-in-vscode-47f07b5d7d6a)
+
 ## Requirements
 
 -   Visual Studio Code
 
 ## Installation
 
-1. Install both Prettier and ESLint extensions in VS Code
+1. Install both [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) and [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) extensions in VS Code
 
 2. Clone this repository by using the command:  
    `git clone https://github.com/akmalhakimi1991/airbnb-eslint-prettier-template.git`
