@@ -16,10 +16,12 @@ This project is aimed to provide an empty VS Code project with easily installabl
 
 ## Installation
 
-1. Clone this repository by using the command:  
+1. Install both Prettier and ESLint extensions in VS Code
+
+2. Clone this repository by using the command:  
    `git clone https://github.com/akmalhakimi1991/airbnb-eslint-prettier-template.git`
 
-2. Navigate into the cloned repository and run this command:  
+3. Navigate into the cloned repository and run this command:  
    `npm install`
 
-3. Happy coding =)
+4. Happy coding =)
